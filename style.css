@@ -1,0 +1,99 @@
+body {
+	margin: 0px;
+	position: 0px;
+}
+.header {
+	background-color: #171780;
+	height: 100px;
+	width: 100%
+}
+.logo {
+	float: left;
+	width: 30%;
+
+}
+.logo h1 {
+	color: white;
+	font-size: 40px;
+	padding-left: 70px;
+}
+.log_in {
+	width: 55%;
+	height: 90px;
+	box-sizing: border-box;
+	float: right;
+	color: white;
+	font-size: 15px;
+
+}
+.email {
+	display: inline-block;
+	padding-top: 30px;
+	padding-right: 20px;
+}
+.body{
+	width: 100%;
+	
+	
+}
+.pic img{
+	float: left;
+	width: 40%;
+	height: 300px;
+	padding-left: 100px;
+	
+	
+}
+.pic h3{
+	width: 40%;
+	box-sizing: border-box;
+	font-size: 20px;
+	padding-left: 100px;
+	
+}
+.creat {
+	float: right;
+	width: 50%;
+
+}
+.creat h2, p {
+	margin: 0px;
+	padding: 0px;
+	
+	display: block;
+	
+}
+.creat_new {
+	float: right;
+	width: 45%;
+}
+.first_name {
+	display: inline-block;
+	width: 200px;
+}
+.email_name {
+	padding-top: 15px;
+
+
+}
+.password_name{
+	padding-top: 15px;
+}
+.birthday p{
+	padding-top: 5px;
+	font-size: 25px;
+	padding-bottom: 5px;
+}
+.birthday {
+	padding-bottom: 15px;
+}
+.policy {
+	font-size: 15px;
+	
+	width: 350px;
+	text-align: justify;
+	right: 150px;
+}
+.account {
+	padding-bottom: 15px;
+}
